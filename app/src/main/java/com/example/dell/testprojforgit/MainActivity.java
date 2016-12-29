@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity /*implements View.OnClickListener*/{
-    // WORK_BR3  tttt
+    // MASTER
 
     TextView tv;
     TextView tv2;
