@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity /*implements View.OnClickListener*/{
     // MASTER
-    // second commit
+    // second commitккк
 
     TextView tv;
     TextView tv2;
